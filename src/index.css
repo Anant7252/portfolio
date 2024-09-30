@@ -1,0 +1,7 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+
+}
+::selection{
+  color:rgb(145, 77, 255);
+}
